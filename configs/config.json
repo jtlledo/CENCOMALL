@@ -1,6 +1,7 @@
 
 {
     "video_path": "../data/robo1.mp4",
-    "model_path": "models/yolo11n.pt",
-    "output_path": "../outputs/output_robo1.mp4"
+    "model_path": "../src/models/yolo11n.pt",
+    "output_path": "../outputs/output_robo1.mp4",
+    "robbery_model_path": "../src/models/lrcn_160S_90_90Q.h5"
 }
