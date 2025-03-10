@@ -1,7 +1,8 @@
 
-
+yolo11x.pt
 /venv
 /data
 /outputs
 /tests
 /notebooks/runs
+.conda
